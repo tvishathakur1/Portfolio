@@ -492,6 +492,11 @@ h6 {
   color: color-mix(in srgb, var(--default-color), transparent 30%);
 }
 
+.bg-white {
+  background-color:rgb(255, 255, 255);
+  display: none;
+}
+
 /*--------------------------------------------------------------
 # Preloader
 --------------------------------------------------------------*/
